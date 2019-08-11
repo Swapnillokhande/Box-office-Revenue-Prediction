@@ -3,5 +3,5 @@
 
 # Steps to be followed for execution
 
-1. Use train and test dataset as an input file for data pre-processing which has been done in python (<br> # Data_preprocessing.py </br>)
+1. Use train and test dataset as an input file for data pre-processing which has been done in python (Data_preprocessing.py)
 2. Use Model_building.R for building the Regression model on the processded dataset. 
